@@ -1,4 +1,4 @@
-package com.bingo;
+package com.bingo.server;
 
 import io.netty.bootstrap.ServerBootstrap;
 import io.netty.channel.ChannelInitializer;

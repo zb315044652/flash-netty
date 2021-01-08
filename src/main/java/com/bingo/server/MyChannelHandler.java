@@ -1,4 +1,4 @@
-package com.bingo;
+package com.bingo.server;
 
 import io.netty.buffer.ByteBuf;
 import io.netty.channel.ChannelHandlerContext;
